@@ -13,7 +13,7 @@ const Landing = () => {
               Service Learning 2021
             </h1>
             <p className="is-size-3 has-text-grey-dark subtitle has-text-centered mt-3">
-              {`"Awareness on career in Computer Science,e-waste and using of different Application"`}
+              {`"Awareness on career in Computer Science,e-waste management and using of different Application"`}
             </p>
 
             <p className="is-size-4 has-text-grey has-text-centered">
