@@ -55,22 +55,22 @@ const Path = () => {
                     Backend Developer
                   </p>
                   <p className="is-size-4 has-text-grey ml-6">
-                    Front end developers create the UI of the website
+                    Backend Developer focuses on server and web architecture.
                   </p>
                   <p className="is-size-4 has-text-link mt-2">
                     Tools and Technologies
                   </p>
                   <div className="content is-medium">
                     <ul className="ml-6">
-                      <li>HTML</li>
-                      <li>CSS</li>
-                      <li>JavaScript</li>
+                      <li>Database</li>
+                      <li>API</li>
+                      <li>Backend Programming Language</li>
                     </ul>
                   </div>
                   <p className="is-size-4 has-text-link mt-2">Average Salary</p>
                   <p className="is-size-4 has-text-grey ml-6 mt-2">
                     {" "}
-                    &#8377; 487,700/annum
+                    &#8377; 792,000/annum
                   </p>
                 </div>
               </div>
